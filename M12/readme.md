@@ -4,7 +4,7 @@ My partition steps
 
     1.1) The copy_s3_from_professor_to_local.ipynb will splite all data by RETURN_TYPE (990, 990EO, 990EZ, 990O, 990PF).
 
-    3.2) Create s3 bucket as followed:
+    1.2) Create s3 bucket as followed:
           return_type=990/	
           return_type=990EO/
           return_type=990EZ/	
