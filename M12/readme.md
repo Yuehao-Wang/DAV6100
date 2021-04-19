@@ -16,3 +16,7 @@ My partition steps
 2) Run SQL partion_script.sql
     2.1) It will create a table as a partitional col named return_type
 
+
+Reference
+https://www.youtube.com/watch?v=RcFFOyYEWKc
+https://www.youtube.com/watch?v=fhtYCGRNKn8
